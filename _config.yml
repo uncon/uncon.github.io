@@ -1,0 +1,8 @@
+title: uncon.net
+description: 
+google_analytics: UA-45783815-1
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
