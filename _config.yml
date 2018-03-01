@@ -1,7 +1,7 @@
 title: uncon.net
-description: 
+description: uncon.net
 google_analytics: UA-45783815-1
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-slate
 
 gems:
