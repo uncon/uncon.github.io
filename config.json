@@ -1,0 +1,71 @@
+{
+	"config": {
+		"self_updater": false,
+		"delete_archives": true,
+		"delete_cias": false
+	},
+	"entries": [
+		{
+			"name": "config.json",
+			"url": "https://uncon.net/config.json",
+			"path": "/3ds/MultiUpdater/config.json"
+		},
+		{
+			"name": "Anemone3DS",
+			"url": "https://github.com/astronautlevel2/Anemone3DS",
+			"inrelease": "Anemone3DS\\.cia",
+			"path": "/cias/Anemone3DS.cia"
+		},
+		{
+			"name": "Themely (latest release) - ihaveamac",
+			"url": "https://github.com/ihaveamac/Themely",
+			"inrelease": "Themely\\.cia",
+			"path": "/cias/Themely.cia"
+		},
+		{
+			"name": "Themely (latest release) - ErmanSayin",
+			"url": "https://github.com/ErmanSayin/Themely",
+			"inrelease": "Themely\\.cia",
+			"path": "/cias/Themely.cia"
+		},
+		{
+			"name": "3DSident",
+			"url": "https://github.com/joel16/3DSident",
+			"inrelease": "3DSident-GUI\\.cia",
+			"path": "/cias/3DSident-GUI.cia"
+		},
+		{
+			"name": "Checkpoint",
+			"url": "https://github.com/BernardoGiordano/Checkpoint",
+			"inrelease": "Checkpoint\\.cia",
+			"path": "/cias/Checkpoint.cia"
+		},
+		{
+			"name": "FBI.cia (latest release)",
+			"url": "https://github.com/Steveice10/FBI",
+			"inrelease": "FBI\\.cia",
+			"path": "/cias/FBI.cia"
+		},
+		{
+			"name": "GodMode9 (latest release)",
+			"url": "https://github.com/d0k3/GodMode9",
+			"inrelease": "GodMode9.*\\.zip",
+			"inarchive": "GodMode9\\.firm",
+			"path": "/luma/payloads/GodMode9.firm"
+		},
+		{
+			"name": "Luma3DS (latest release)",
+			"url": "https://github.com/AuroraWright/Luma3DS",
+			"inrelease": "Luma3DS.*\\.7z",
+			"inarchive": "boot\\.firm",
+			"path": "/boot.firm"
+		},
+		{
+			"name": "CTRNAND Luma3DS (latest release)",
+			"url": "https://github.com/AuroraWright/Luma3DS",
+			"inrelease": "Luma3DS.*\\.7z",
+			"inarchive": "boot\\.firm",
+			"path": "ctrnand:/boot.firm"
+		}
+	]
+}
