@@ -2,7 +2,7 @@
 	"config": {
 		"self_updater": false,
 		"delete_archives": true,
-		"delete_cias": false
+		"delete_cias": true
 	},
 	"entries": [
 		{
@@ -15,18 +15,6 @@
 			"url": "https://github.com/astronautlevel2/Anemone3DS",
 			"inrelease": "Anemone3DS\\.cia",
 			"path": "/cias/Anemone3DS.cia"
-		},
-		{
-			"name": "Themely (latest release) - ihaveamac",
-			"url": "https://github.com/ihaveamac/Themely",
-			"inrelease": "Themely\\.cia",
-			"path": "/cias/Themely.cia"
-		},
-		{
-			"name": "Themely (latest release) - ErmanSayin",
-			"url": "https://github.com/ErmanSayin/Themely",
-			"inrelease": "Themely\\.cia",
-			"path": "/cias/Themely.cia"
 		},
 		{
 			"name": "3DSident",
