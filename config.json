@@ -11,6 +11,13 @@
 			"path": "/3ds/MultiUpdater/config.json"
 		},
 		{
+			"name": "mGBA",
+			"url": "https://github.com/mgba-emu/mgba",
+			"inrelease": "mGBA-.*-3ds\\.7z",
+			"inarchive": "mgba\\.cia",
+			"path": "/cias/mgba.cia"
+		},
+		{
 			"name": "Anemone3DS",
 			"url": "https://github.com/astronautlevel2/Anemone3DS",
 			"inrelease": "Anemone3DS\\.cia",
