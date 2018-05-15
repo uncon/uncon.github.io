@@ -14,7 +14,7 @@
 			"name": "mGBA",
 			"url": "https://github.com/mgba-emu/mgba",
 			"inrelease": "mGBA-.*-3ds\\.7z",
-			"inarchive": "mGBA-0.6.3-3ds/mgba.cia",
+			"inarchive": "mGBA-.*-3ds/mgba.cia",
 			"path": "/cias/mgba.cia"
 		},
 		{
