@@ -29,7 +29,7 @@
 			"path": "/cias/Checkpoint.cia"
 		},
 		{
-			"name": "FBI.cia (latest release)",
+			"name": "FBI (latest release)",
 			"url": "https://github.com/Steveice10/FBI",
 			"inrelease": "FBI\\.cia",
 			"path": "/cias/FBI.cia"
