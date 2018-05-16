@@ -11,18 +11,45 @@
 			"path": "/3ds/MultiUpdater/config.json"
 		},
 		{
+			"name": "snes9x_3ds",
+			"url": "https://github.com/bubble2k16/snes9x_3ds",
+			"inrelease": "snes9x_3ds-.*\\.zip",
+			"inarchive": "snes9x_3ds\\.cia",
+			"path": "/cias/snes9x_3ds.cia"
+		},
+		{
+			"name": "virtuanes_3ds",
+			"url": "https://github.com/bubble2k16/emus3ds",
+			"inrelease": "virtuanes_3ds-.*\\.zip",
+			"inarchive": "virtuanes_3ds\\.cia",
+			"path": "/cias/virtuanes_3ds.cia"
+		},
+		{
+			"name": "temperpce_3ds",
+			"url": "https://github.com/bubble2k16/temperpce_3ds",
+			"inrelease": "temperpce_3ds-.*\\.zip",
+			"inarchive": "temperpce_3ds\\.cia",
+			"path": "/cias/temperpce_3ds.cia"
+		},
+		{
+			"name": "picodrive_3ds",
+			"url": "https://github.com/bubble2k16/picodrive_3ds",
+			"inrelease": "picodrive_3ds-.*\\.zip",
+			"inarchive": "picodrive_3ds\\.cia",
+			"path": "/cias/picodrive_3ds.cia"
+		},
+		{
+			"name": "GameYob",
+			"url": "https://github.com/Steveice10/GameYob",
+			"inrelease": "GameYob\\.cia",
+			"path": "/cias/GameYob.cia"
+		},
+		{
 			"name": "mGBA",
 			"url": "https://github.com/mgba-emu/mgba",
 			"inrelease": "mGBA-.*-3ds\\.7z",
 			"inarchive": "mGBA-.*-3ds/mgba\\.cia",
 			"path": "/cias/mgba.cia"
-		},
-		{
-			"name": "snes9x_3ds",
-			"url": "https://github.com/bubble2k16/snes9x_3ds",
-			"inrelease": "snes9x_3ds-.*\\.zip",
-			"inarchive": "snes9x_3ds.cia",
-			"path": "/cias/snes9x_3ds.cia"
 		},
 		{
 			"name": "Anemone3DS",
