@@ -52,6 +52,12 @@
 			"path": "/cias/mgba.cia"
 		},
 		{
+			"name": "Super ftpd II Turbo",
+			"url": "https://github.com/mtheall/ftpd",
+			"inrelease": "ftpd\\.cia",
+			"path": "/cias/ftpd.cia"
+		},
+		{
 			"name": "Anemone3DS",
 			"url": "https://github.com/astronautlevel2/Anemone3DS",
 			"inrelease": "Anemone3DS\\.cia",
@@ -70,27 +76,27 @@
 			"path": "/cias/Checkpoint.cia"
 		},
 		{
-			"name": "FBI (latest release)",
+			"name": "FBI",
 			"url": "https://github.com/Steveice10/FBI",
 			"inrelease": "FBI\\.cia",
 			"path": "/cias/FBI.cia"
 		},
 		{
-			"name": "GodMode9 (latest release)",
+			"name": "GodMode9",
 			"url": "https://github.com/d0k3/GodMode9",
 			"inrelease": "GodMode9.*\\.zip",
 			"inarchive": "GodMode9\\.firm",
 			"path": "/luma/payloads/GodMode9.firm"
 		},
 		{
-			"name": "Luma3DS (latest release)",
+			"name": "Luma3DS",
 			"url": "https://github.com/AuroraWright/Luma3DS",
 			"inrelease": "Luma3DS.*\\.7z",
 			"inarchive": "boot\\.firm",
 			"path": "/boot.firm"
 		},
 		{
-			"name": "CTRNAND Luma3DS (latest release)",
+			"name": "Luma3DS (CTRNAND)",
 			"url": "https://github.com/AuroraWright/Luma3DS",
 			"inrelease": "Luma3DS.*\\.7z",
 			"inarchive": "boot\\.firm",
