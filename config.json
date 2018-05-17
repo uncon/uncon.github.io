@@ -39,12 +39,6 @@
 			"path": "/cias/picodrive_3ds.cia"
 		},
 		{
-			"name": "GameYob",
-			"url": "https://github.com/Steveice10/GameYob",
-			"inrelease": "GameYob\\.cia",
-			"path": "/cias/GameYob.cia"
-		},
-		{
 			"name": "mGBA",
 			"url": "https://github.com/mgba-emu/mgba",
 			"inrelease": "mGBA-.*-3ds\\.7z",
