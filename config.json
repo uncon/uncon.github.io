@@ -60,7 +60,7 @@
 			"inrelease": "Luma3DS.*\\.7z",
 			"inarchive": "boot\\.firm",
 			"path": "ctrnand:/boot.firm"
-		}
+		},
 		{
 			"name": "snes9x_3ds",
 			"url": "https://github.com/bubble2k16/snes9x_3ds",
@@ -95,6 +95,6 @@
 			"inrelease": "mGBA-.*-3ds\\.7z",
 			"inarchive": "mGBA-.*-3ds/mgba\\.cia",
 			"path": "/cias/mgba.cia"
-		},
+		}
 	]
 }
