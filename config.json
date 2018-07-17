@@ -11,109 +11,99 @@
 			"path": "/3ds/MultiUpdater/config.json"
 		},
 		{
-			"name": "===== Tools =====",
-			"url": "",
-			"path": ""
-		},
-		{
-			"name": "  Anemone3DS",
+			"name": "Anemone3DS",
 			"url": "https://github.com/astronautlevel2/Anemone3DS",
 			"inrelease": "Anemone3DS\\.cia",
 			"path": "/cias/Anemone3DS.cia"
 		},
 		{
-			"name": "  MultiUpdater",
+			"name": "MultiUpdater",
 			"url": "https://github.com/LiquidFenrir/MultiUpdater",
 			"inrelease": "MultiUpdater-.*\\.zip",
 			"inarchive": "MultiUpdater.cia",
 			"path": "/cias/MultiUpdater.cia"
 		},
 		{
-			"name": "  Super ftpd II Turbo",
+			"name": "Super ftpd II Turbo",
 			"url": "https://github.com/mtheall/ftpd",
 			"inrelease": "ftpd\\.cia",
 			"path": "/cias/ftpd.cia"
 		},
 		{  
-			"name": "  Cthulhu",
+			"name": "Cthulhu",
 			"url": "https://github.com/Ryuzaki-MrL/Cthulhu",
 			"inrelease": "Cthulhu.cia",
 			"path": "/cias/Cthulhu.cia"        
 		},
 		{
-			"name": "  3DSident",
+			"name": "3DSident",
 			"url": "https://github.com/joel16/3DSident",
 			"inrelease": "3DSident-GUI\\.cia",
 			"path": "/cias/3DSident-GUI.cia"
 		},
 		{
-			"name": "  Checkpoint",
+			"name": "Checkpoint",
 			"url": "https://github.com/BernardoGiordano/Checkpoint",
 			"inrelease": "Checkpoint\\.cia",
 			"path": "/cias/Checkpoint.cia"
 		},
 		{
-			"name": "  FBI",
+			"name": "FBI",
 			"url": "https://github.com/Steveice10/FBI",
 			"inrelease": "FBI\\.cia",
 			"path": "/cias/FBI.cia"
 		},
 		{
-			"name": "  GodMode9",
+			"name": "GodMode9",
 			"url": "https://github.com/d0k3/GodMode9",
 			"inrelease": "GodMode9.*\\.zip",
 			"inarchive": "GodMode9\\.firm",
 			"path": "/luma/payloads/GodMode9.firm"
 		},
 		{
-			"name": "  Luma3DS",
+			"name": "Luma3DS",
 			"url": "https://github.com/AuroraWright/Luma3DS",
 			"inrelease": "Luma3DS.*\\.7z",
 			"inarchive": "boot\\.firm",
 			"path": "/boot.firm"
 		},
 		{
-			"name": "  Luma3DS (CTRNAND)",
+			"name": "Luma3DS (CTRNAND)",
 			"url": "https://github.com/AuroraWright/Luma3DS",
 			"inrelease": "Luma3DS.*\\.7z",
 			"inarchive": "boot\\.firm",
 			"path": "ctrnand:/boot.firm"
 		},
 		{
-			"name": "===== Emulators =====",
-			"url": "",
-			"path": ""
-		},
-		{
-			"name": "  snes9x_3ds",
+			"name": "snes9x_3ds",
 			"url": "https://github.com/bubble2k16/snes9x_3ds",
 			"inrelease": "snes9x_3ds-.*\\.zip",
 			"inarchive": "snes9x_3ds\\.cia",
 			"path": "/cias/snes9x_3ds.cia"
 		},
 		{
-			"name": "  virtuanes_3ds",
+			"name": "virtuanes_3ds",
 			"url": "https://github.com/bubble2k16/emus3ds",
 			"inrelease": "virtuanes_3ds-.*\\.zip",
 			"inarchive": "virtuanes_3ds\\.cia",
 			"path": "/cias/virtuanes_3ds.cia"
 		},
 		{
-			"name": "  temperpce_3ds",
+			"name": "temperpce_3ds",
 			"url": "https://github.com/bubble2k16/temperpce_3ds",
 			"inrelease": "temperpce_3ds-.*\\.zip",
 			"inarchive": "temperpce_3ds\\.cia",
 			"path": "/cias/temperpce_3ds.cia"
 		},
 		{
-			"name": "  picodrive_3ds",
+			"name": "picodrive_3ds",
 			"url": "https://github.com/bubble2k16/picodrive_3ds",
 			"inrelease": "picodrive_3ds-.*\\.zip",
 			"inarchive": "picodrive_3ds\\.cia",
 			"path": "/cias/picodrive_3ds.cia"
 		},
 		{
-			"name": "  mGBA",
+			"name": "mGBA",
 			"url": "https://github.com/mgba-emu/mgba",
 			"inrelease": "mGBA-.*-3ds\\.7z",
 			"inarchive": "mGBA-.*-3ds/mgba\\.cia",
