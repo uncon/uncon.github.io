@@ -11,6 +11,12 @@
 			"path": "/3ds/MultiUpdater/config.json"
 		},
 		{
+			"name": "Anemone3DS",
+			"url": "https://github.com/astronautlevel2/Anemone3DS",
+			"inrelease": "Anemone3DS\\.cia",
+			"path": "/cias/Anemone3DS.cia"
+		},
+		{
 			"name": "MultiUpdater",
 			"url": "https://github.com/LiquidFenrir/MultiUpdater",
 			"inrelease": "MultiUpdater-.*\\.zip",
@@ -23,11 +29,11 @@
 			"inrelease": "ftpd\\.cia",
 			"path": "/cias/ftpd.cia"
 		},
-		{
-			"name": "Anemone3DS",
-			"url": "https://github.com/astronautlevel2/Anemone3DS",
-			"inrelease": "Anemone3DS\\.cia",
-			"path": "/cias/Anemone3DS.cia"
+		{  
+			"name": "Cthulhu",
+			"url": "https://github.com/Ryuzaki-MrL/Cthulhu",
+			"inrelease": "Cthulhu.cia",
+			"path": "/cias/Cthulhu.cia"        
 		},
 		{
 			"name": "3DSident",
@@ -67,6 +73,11 @@
 			"inrelease": "Luma3DS.*\\.7z",
 			"inarchive": "boot\\.firm",
 			"path": "ctrnand:/boot.firm"
+		},
+		{
+			"name": "===== Emulators =====",
+			"url": "",
+			"path": ""
 		},
 		{
 			"name": "snes9x_3ds",
