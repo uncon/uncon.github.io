@@ -11,6 +11,11 @@
 			"path": "/3ds/MultiUpdater/config.json"
 		},
 		{
+			"name": "3DShell",
+			"url": "https://github.com/joel16/3DShell",
+			"inrelease": "3DShell\\.cia",
+			"path": "/cias/3DShell.cia"
+		},		{
 			"name": "Anemone3DS",
 			"url": "https://github.com/astronautlevel2/Anemone3DS",
 			"inrelease": "Anemone3DS\\.cia",
@@ -101,6 +106,12 @@
 			"inrelease": "picodrive_3ds-.*\\.zip",
 			"inarchive": "picodrive_3ds\\.cia",
 			"path": "/cias/picodrive_3ds.cia"
+		},
+		{
+			"name": "GameYob",
+			"url": "https://github.com/Steveice10/GameYob",
+			"inrelease": "GameYob\\.cia",
+			"path": "/cias/GameYob.cia"
 		},
 		{
 			"name": "mGBA",
